@@ -1,15 +1,10 @@
 
-<h1 align="center">Hi , I'm Dnyaneshwari Kolapkar</h1>
-<h3 align="center">Third Year B.Tech student pursuing Information Technology degree.</h3>
+<h1 align="center">Hi , I'm Ankur Dattatray Gaikwad</h1>
+<h3 align="center">Third Year B.Tech student.</h3>
 
 <div align="left">
-  <a href="https://twitter.com/dnyank_">
-    <img
-      src="https://img.shields.io/twitter/follow/dnyank_?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/dnyaneshwari-kolapkar-1763671ba">
+
+  <a href="https://www.linkedin.com/in/ankur-dg-6810311ba/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
@@ -18,21 +13,21 @@
   
   
   
-  <a href="https://app.daily.dev/dnyan" target="_blank">
+  <a href="https://api.daily.dev/devcards/7d96963a1da84c6baf16f4ac5b3873ed.png?r=dy3" target="_blank">
     <img
       width="300"
       align="right"
-      src="https://github.com/DnyaneshwariKolapkar/DnyaneshwariKolapkar/blob/main/devcard.svg"
+      src=""
     />
   </a>
  
  
   ## About Me:
-- 💻 Open-Source and CyberSecurity Enthusiast!
+- 💻 Open-Source and DevOps Enthusiast!
 - 🕸️ I’m currently learning **Web Development**
 - 📝 I’m currently working on improving my problem solving skills
-- 📫 How to reach me **kolapkardnyaneshwari@gmail.com**
-- 💬 Talk to me about books, origami and anything related to technology.
+- 📫 How to reach me **ankurdattatrayg@gmail.com**
+- 💬 Talk to me about books, and anything related to technology.
   
 ### Languages
 
@@ -62,9 +57,9 @@
  ---
 ### Find me 
 <p align="left">
-<a href="https://www.codechef.com/users/dnyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/dnyan" height="40" width="40" /></a>
-   <a href="https://leetcode.com/dnyanK/" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/master/icons/leetcode.svg" alt="https://leetcode.com/dnyanK/" height="40" width="40" /></a>
- <a href="https://codeforces.com/profile/dnyan_K" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/master/icons/codeforces.svg" alt="https://codeforces.com/profile/dnyan_K" height="40" width="40" /></a>
+
+   <a href="https://leetcode.com/ankurdattatrayg/" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/master/icons/leetcode.svg" alt="https://leetcode.com/ankurdattatrayg/" height="40" width="40" /></a>
+
 </p>
 
   <img align="left" src="https://github.com/DnyaneshwariKolapkar/DnyaneshwariKolapkar/blob/main/github-metrics.svg" alt="Metrics" width="500">
