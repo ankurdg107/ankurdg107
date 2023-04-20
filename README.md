@@ -62,7 +62,7 @@
 
 </p>
 
-  <img align="left" src="https://github.com/DnyaneshwariKolapkar/DnyaneshwariKolapkar/blob/main/github-metrics.svg" alt="Metrics" width="500">
+  <img align="left" src="" alt="Metrics" width="500">
   </div>
   
 
@@ -75,7 +75,7 @@
 
 - 📫 How to reach me **ankurdattatrayg@gmail.com**
 
-- 😄 Pronouns: he/she
+- 😄 Pronouns: he/him
 
 
 
