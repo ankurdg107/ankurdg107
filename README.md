@@ -51,7 +51,7 @@
 
 ---
 ## 💻 WorkStation
-[![Kali_Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![Manjaro_Linux](https://img.shields.io/badge/Manjaro_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/windows/windows-11)
  ---
 ### Find me 
